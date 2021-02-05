@@ -24,7 +24,11 @@ export default function Home() {
         <h1 className="rainbow-text">Coming soon</h1>
         <ul className="social-icons">
           <li>
-            <a href="" className="social-icon">
+            <a
+              href=""
+              target="_blank noopener noreferrer"
+              className="social-icon"
+            >
               {" "}
               <FontAwesomeIcon
                 className="fa-social-icon fa-facebook"
@@ -33,7 +37,11 @@ export default function Home() {
             </a>
           </li>
           <li>
-            <a href="" className="social-icon">
+            <a
+              href="https://www.youtube.com/channel/UCUdmVjbalNB1xkQZvOGB46w"
+              target="_blank noopener noreferrer"
+              className="social-icon"
+            >
               {" "}
               <FontAwesomeIcon
                 className="fa-social-icon fa-youtube"
