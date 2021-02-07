@@ -25,11 +25,11 @@ export default function Home() {
         <ul className="social-icons">
           <li>
             <a
-              href=""
-              target="_blank noopener noreferrer"
+              href="https://www.facebook.com/groups/430633205051287"
+              target="_blank"
+              rel="noopener noreferrer"
               className="social-icon"
             >
-              {" "}
               <FontAwesomeIcon
                 className="fa-social-icon fa-facebook"
                 icon={faFacebook}
@@ -39,10 +39,10 @@ export default function Home() {
           <li>
             <a
               href="https://www.youtube.com/channel/UCUdmVjbalNB1xkQZvOGB46w"
-              target="_blank noopener noreferrer"
+              target="_blank"
+              rel="noopener noreferrer"
               className="social-icon"
             >
-              {" "}
               <FontAwesomeIcon
                 className="fa-social-icon fa-youtube"
                 icon={faYoutube}
@@ -52,10 +52,10 @@ export default function Home() {
           <li>
             <a
               href="https://www.twitch.tv/splifington"
-              target="_blank noopener noreferrer"
+              target="_blank"
+              rel="noopener noreferrer"
               className="social-icon"
             >
-              {" "}
               <FontAwesomeIcon
                 className="fa-social-icon fa-twitch"
                 icon={faTwitch}
